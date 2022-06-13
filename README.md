@@ -1,0 +1,3 @@
+# Optimization-methods-using-Matlab
+
+In this paper we are going to use many optimization methods to solve a different kind of objective function. Some of them use linear or nonlinear inequality constraints as well as parameters in the cost function. Depending on the definition of the objective functions, the selection of the method that we need to use to solve it also changes.  In addition, we are going to bring some explanations of the methods and then we are going to use Matlab to show how to implement them. Finally, the reader can find 2 demonstrations, one of them is about the Jacobian and another one is about the subgradients of the functions.
